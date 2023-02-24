@@ -9,6 +9,7 @@
 .intro {
     max-width: 540px;
     text-align: center;
+    z-index: 1;
 }
 
 .home__img {
@@ -151,7 +152,7 @@
     right: 11%;
 }
 
-.s11  {
+.s11 {
     bottom: 10%;
     right: 2%;
 }
