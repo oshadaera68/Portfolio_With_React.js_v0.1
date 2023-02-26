@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio_With_React.js_v0.1/static/css/main.44e3cde5.css",
+    "main.js": "/Portfolio_With_React.js_v0.1/static/js/main.abe6419e.js",
+    "static/media/blog-2.svg": "/Portfolio_With_React.js_v0.1/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
+    "static/media/blog-1.svg": "/Portfolio_With_React.js_v0.1/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
+    "static/media/work-4.svg": "/Portfolio_With_React.js_v0.1/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/blog-3.svg": "/Portfolio_With_React.js_v0.1/static/media/blog-3.2b3b19d1ca3209f976198c3fd2418e16.svg",
+    "static/media/work-3.svg": "/Portfolio_With_React.js_v0.1/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/avatar-3.svg": "/Portfolio_With_React.js_v0.1/static/media/avatar-3.605f4f9b2d464df4897817a6278e52d7.svg",
+    "static/media/work-1.svg": "/Portfolio_With_React.js_v0.1/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/service-1.svg": "/Portfolio_With_React.js_v0.1/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
+    "static/media/work-6.svg": "/Portfolio_With_React.js_v0.1/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/work-5.svg": "/Portfolio_With_React.js_v0.1/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/avatar-2.svg": "/Portfolio_With_React.js_v0.1/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/Portfolio_With_React.js_v0.1/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/work-2.svg": "/Portfolio_With_React.js_v0.1/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/service-3.svg": "/Portfolio_With_React.js_v0.1/static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
+    "static/media/price-1.svg": "/Portfolio_With_React.js_v0.1/static/media/price-1.b5f9838862632ad0cabb2d51d8a1f47a.svg",
+    "static/media/service-2.svg": "/Portfolio_With_React.js_v0.1/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/price-3.svg": "/Portfolio_With_React.js_v0.1/static/media/price-3.e38b12b9fc0ac74980f5c43d470782e0.svg",
+    "static/media/price-2.svg": "/Portfolio_With_React.js_v0.1/static/media/price-2.747a8d1acf93a30ba88da632fc45e2ce.svg",
+    "static/media/logo.svg": "/Portfolio_With_React.js_v0.1/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
+    "static/media/dots-bg.svg": "/Portfolio_With_React.js_v0.1/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/Portfolio_With_React.js_v0.1/index.html",
+    "main.44e3cde5.css.map": "/Portfolio_With_React.js_v0.1/static/css/main.44e3cde5.css.map",
+    "main.abe6419e.js.map": "/Portfolio_With_React.js_v0.1/static/js/main.abe6419e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44e3cde5.css",
+    "static/js/main.abe6419e.js"
+  ]
+}
