@@ -81,3 +81,9 @@
         grid-template-columns: 310px;
     }
 }
+
+@media screen and (max-width:350px) {
+    .pricing__container {
+        grid-template-columns: 1fr;
+    }
+}

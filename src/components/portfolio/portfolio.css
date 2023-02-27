@@ -1,6 +1,7 @@
 .work__filters {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
     column-gap: 1.875rem;
     margin-bottom: 2.5rem;
 }
@@ -116,5 +117,11 @@
 
     .work__filters {
         row-gap: .25rem;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .work__container {
+        grid-template-columns: 1fr;
     }
 }
